@@ -2,7 +2,8 @@
 using OpenQA.Selenium.Chrome;
 using System;
 
-namespace ReadingTable
+namespace SeleniumFirst1
+
 {
     class Program
     {
